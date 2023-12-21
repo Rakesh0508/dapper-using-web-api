@@ -1,5 +1,5 @@
 # dapper-using-web-api
-1)Dapper Installation
+# Dapper Installation
 2)Class and DbContext
 3)Repository Pattern
 4)Generic Repository Pattern
