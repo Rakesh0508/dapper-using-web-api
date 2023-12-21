@@ -1,10 +1,10 @@
 # dapper-using-web-api
 # Dapper Installation
-2)Class and DbContext
-3)Repository Pattern
-4)Generic Repository Pattern
-5)Queries and Executions
-6)Working with Stored Procedures
-7)Serilog method
-8)Jwt Token
-9)Authetication and Authorization
+# Class and DbContext
+# Repository Pattern
+# Generic Repository Pattern
+# Queries and Executions
+# Working with Stored Procedures
+# Serilog method
+# Jwt Token
+# Authetication and Authorization
